@@ -25,5 +25,5 @@ This is a simple console-based implementation of the classic Tic Tac Toe game in
 
 ## Files
 
-- `main.cpp`: Contains the main implementation of the Tic Tac Toe game.
-- `README.md`: This file, providing information about the project.
+- `Tic Tac Toe.cpp`: Contains the main implementation of the Tic Tac Toe game.
+- `Readme.md`: This file, providing information about the project.
